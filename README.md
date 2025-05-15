@@ -1,3 +1,4 @@
+![PixelQuest_LB_PurpleBG](https://github.com/user-attachments/assets/fbd56d60-aee6-43cf-a989-c68cd0bf1455)
 
 # Proyecto: Pixel Quest 2
 
