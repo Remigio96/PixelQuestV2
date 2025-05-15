@@ -32,6 +32,8 @@ Layout-de-ecommerce-con-Grid/
 1. Clonar o descargar el repositorio.
 2. Abrir el archivo `index.html` con un navegador.
 
+![image](https://github.com/user-attachments/assets/f6bfcdba-73f4-4077-9792-78dd497d27a3)
+
 ## Requisitos
 
 * Navegador moderno compatible con **CSS Grid Layout**.
